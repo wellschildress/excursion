@@ -17,6 +17,11 @@ p {
   color: gray;
 }
 
+video {
+  background-color: black;
+  text-align: center;
+}
+
 html {
   background-color: black;
   text-align: center;
