@@ -5,7 +5,18 @@ h1 {
   color: white;
 }
 
-#class {
+.download {
   color: aquamarine;
   font-size: 16px;
+  text-align: center;
+}
+
+p {
+  font-family: verdana, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+
+html {
+  background-color: black;
 }
