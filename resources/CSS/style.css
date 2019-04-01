@@ -25,9 +25,11 @@ video {
 html {
   background-color: black;
   text-align: center;
+  font-family: verdana, sans-serif;
 }
 
 footer {
   text-align: right;
   color: gray;
+  font-size: 21px;
 }
